@@ -1,4 +1,5 @@
-let hasMerbership = false;
+let hasMerbership = false
+
 If (hasMerbership === true)
 {
     console.log("You can enter the club")
